@@ -2,8 +2,6 @@
 
 ## CAPÍTULO I - Da Denominação, Sede, Duração e Fins
 
-
-
 **Art. 1º** O **Grêmio Estudantil** do IFPE - Campus Garanhuns, abreviadamente Grêmio, é uma instituição sem fins lucrativos constituída pelos alunos regularmente matriculados do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - *Campus* Garanhuns, **sediado** neste mesmo estabelecimento, com **duração ilimitada** e regida pelas normas deste Estatuto.
 
 Parágrafo único. A **dissolução do Grêmio** somente ocorrerá quando for extinta a Escola, revertendo seus bens a entidades semelhantes, conforme dispõem as leis que tratam desta questão.
@@ -33,11 +31,17 @@ _*Redação alternativa (estatuto atual):*_
 _*Redação alternativa:*_
 
 **Art. 2º** São objetivos do grêmio:
+
 I - representar os seus associados;
+
 II - defender os interesses dos estudantes da referida instituição;
+
 III - promover e cooperar com atividades educacionais, cívicas, culturais, socais e desportivas;
+
 IV - lutar por e defender a participação democrática dos estudantes na gestão da referida instituição;
+
 V - contribuir para a melhoria da vida e da educação e solução dos problemas dentro do espaço escolar;
+
 VI - contribuir com  formação cívica e política dos associados;
 
 Parágrafo Único. ~~No cumprimento de suas finalidades, o Grêmio **promoverá ações** em diversas áreas, podendo realizar quaisquer atividades ligadas a suas finalidades.~~ Para cumprir seus objetivos, o grêmio poderá **firmar contratos** e convênios diretos e indiretos com entidades públicas, privadas ou do Terceiro Setor.
@@ -53,8 +57,11 @@ Parágrafo único. O Grêmio não se responsabilizará por **obrigações contra
 **Art. 4º** São **associados** ao Grêmio todos os alunos matriculados na Escola.
 
 **Art. 5º** São **deveres** dos associados:
+
 I – conhecer e cumprir as normas do Estatuto;
+
 II – cooperar pelo fortalecimento e pela continuidade do Grêmio;
+
 III - buscar o cumprimento dos objetivos do Grêmio.
 
 _*Redação alternativa (tira um artigo):*_
@@ -62,23 +69,37 @@ _*Redação alternativa (tira um artigo):*_
 **Art. 4º** São **associados** ao Grêmio todos os alunos matriculados na Escola.
 
 §1º São deveres dos associados:
+
 I – conhecer e cumprir as normas do Estatuto;
+
 II – cooperar pelo fortalecimento e pela continuidade do Grêmio;
+
 III - buscar o cumprimento dos objetivos do Grêmio.
 
 §2º São direitos dos associados:
+
 I - falar e participar das sessões da Assembléia;
+
 II - apresentar propostas;
+
 III - votar em propostas e participar igualmente dos processos de decisão;
+
 IV - se candidatar as comissões;
+
 V - votar nas eleições.
 
 **Art. 6º** Constituem **infrações disciplinares**:
+
 I – usar o Grêmio para fins diferentes de seus objetivos;
+
 II – deixar de cumprir o Estatuto;
+
 III – prestar informações, referentes ao Grêmio, que coloquem em risco a integridade de seus associados;
+
 IV – praticar atos que venham a ridicularizar a Entidade, seus sócios ou seus símbolos;
+
 V – representar o Grêmio sem autorização da Assembléia;
+
 VI – atentar contra os patrimônio moral ou material do Grêmio;
 
 §1º Havendo indícios de infração, leva-se a **julgamento** em Assembléia Geral, sempre garantido ao estudante o direito de ampla defesa, de recursos e ao contraditório.
@@ -100,23 +121,35 @@ Parágrafo único. Decisão complementar da Assembléia versará sobre o funcion
 ~~§1º As **propostas** serão discutidas e resolvidas na sessão ordinária seguinte ao seu recebimento ou em sessão extraordinária convocada para data anterior, sendo proibida a deliberação sobre propostas não prevista em anúncio com no mínimo dois dias de antecedência.~~
 
 Parágrafo único. Não serão incluídas na pauta por desaprovação automática** **as propostas que:
+
 I - contrariem esse Estatuto, exceto no caso de alteração do mesmo;
+
 II - contrariem a legislação vigente;
+
 III - que retirem da Assembléia o poder de desfazer uma decisão, exceto nos casos previstos no Estatuto;
+
 IV - que deixem para duas ou mais comissões as mesmas responsabilidades;
+
 V - que retirem da Assembléia o poder de revisar medidas emergenciais;
 
 **Art. 9º** Todos os associados do Grêmio têm direito de **participar das votações**, que poderão ser abertas ou fechadas, sendo o  voto pessoal e intransferível.
 
 §1º Decisão  complementar versará previamente sobre as diferentes formas de votação e os quóruns e votos requeridos para as deliberações, respeitando-se sempre a necessidade mínima de:
+
 I - presença de cinco por cento dos associados;
+
 II - os votos da maioria simples;
 
 §2º Exigir-se-á o quórum mínimo de dez por cento dos associados e os votos da maioria absoluta para aprovar propostas que:
+
 I -  versem sobre os regimes e formas de votação;
+
 II -  julguem medidas emergenciais, ações disciplinares do Grêmio ou da escola;
+
 III -  versem sobre sobre votações gerais previstas no §5º deste artigo;
+
 IV - alterem o Estatuto;
+
 V - dissolvam comissões ou destituam seus membros;
 
 §3º A Assembléia poderá dispor sobre os casos em que se realizará escrutínio fechado e geral dando a possibilidade de voto a todos os associados, aplicando-se nessas casos a legislação eleitoral vigente e os mesmos princípios de que tratam o caput deste artigo.
@@ -126,9 +159,13 @@ V - dissolvam comissões ou destituam seus membros;
 **Art. 10.** Todos os associados do Grêmio têm direito de **se candidatar às comissões**, exceto aqueles que já são membros de uma comissão.
 
 §1º** As comissões **terão:
+
 I - no mínimo três membros efetivos;
+
 II - caráter executivo ou consultivo, nunca deliberativo;
+
 III - duração preestabelecida em no máximo um ano letivo;
+
 IV - obrigação de cumprir todas as decisões da Assembléia;
 
 §2º As **comissões devem manter transparência** em suas atividades, através de sessões e votações abertas, decidindo suas questões através do voto e apresentando relatório ao final das atividades.
@@ -136,9 +173,13 @@ IV - obrigação de cumprir todas as decisões da Assembléia;
 §3º As comissões poderão tomar medidas emergenciais caso não fazê-lo gere grave prejuízo à Assembléia e não seja possível convocá-la a tempo, sendo submetida a ação ou omissão decorrente ao julgamento da Assembléia em sessão extraordinária ou na sessão ordinária imediatamente posterior.
 
 §3º As propostas de destituição de membros de comissões ou de dissolução de comissões será votada em regime especial e deverá apresentar justificativa dentre as abaixo listadas:
+
 I - descumprimento do Estatuto ou de qualquer ordem da Assembléia;
+
 II - desaprovação de qualquer medida pela Assembléia;
+
 III - desaprovação de medidas emergências pela assembléia;
+
 IV - no caso de uma suposta medida emergencial que não for assim considerada pela Assembléia.
 
 **Art. 11.** Todos os associados do Grêmio têm direito de **votar nas eleições**, votação pelo qual escolhem-se os membros efetivos e suplentes das comissões em votação fechada ou aberta durante as sessões da Assembléia.
@@ -152,18 +193,27 @@ IV - no caso de uma suposta medida emergencial que não for assim considerada pe
 §4º As comissões poderão delegar trabalho a outros associados ou  a colaboradores externos, desde que autorizadas pela Assembléia.
 
 _*Redação alternativa (não começa com “todos os associados...”:*_
+
 **Art. 10. **A Assembléia poderá instituir comissões para realizar funções executivas ou consultivas, proibidas as deliberativas, que deverão:
+
 I - ter no mínimo três membros efetivos;
+
 II - ter duração preestabelecida em no máximo um ano letivo;
+
 III - cumprir todas as decisões da Assembléia;
+
 IV - manter a transparência em suas atividades;
 
 §1º As comissões poderão tomar medidas emergenciais caso não fazê-lo gere grave prejuízo à Assembléia e não seja possível convocá-la a tempo, sendo submetida a ação ou omissão decorrente ao julgamento da Assembléia em sessão extraordinária ou na sessão ordinária imediatamente posterior.
 
 §2º As propostas de destituição de membros de comissões ou de dissolução de comissões deverá apresentar justificativa dentre as abaixo listadas:
+
 I - descumprimento do Estatuto ou de qualquer ordem da Assembléia;
+
 II - desaprovação de qualquer medida pela Assembléia;
+
 III - desaprovação de medidas emergências pela assembléia;
+
 IV - no caso de uma suposta medida emergencial que não for assim considerada pela Assembléia.
 
 **Art. 11.** Todos os associados do Grêmio têm direito de **votar e se candidatar nas eleições**, votação na qual escolhem-se os membros efetivos e suplentes das comissões durante as sessões da Assembléia.
@@ -197,9 +247,13 @@ Art. 13. As comissões permantes serão escolhidas durante as primeiras sessões
 §3º Sempre que possível, a primeira sessão deliberativa da assembléia será realizada no sexto dia letivo e conduzida pelo presidente da mesa anterior.
 
 **Art. 13.** A Assembléia manterá, no mínimo, as seguintes **Comissões permanentes**:
+
 I - a mesa ou comissão diretora;
+
 I - a comissão de execução;
+
 II - a comissão de finanças;
+
 III - a comissão de representação.
 
 Parágrafo único. As comissões permanentes terão duração de um ano letivo e as atribuição previstas neste Estatuto e outras conferidas pela Assembléia.
@@ -217,8 +271,11 @@ Parágrafo único. O caso do inciso IV do caput desse artigo equipara-se-à deci
 Parágrafo único. Decisão complementar determinará o número de membros efetivos da comissão e, caso necessário, as funções de seus membros efetivos, reservando-se ao mais votado a função de presidente da comissão.
 
 **Art. 16.** A **comissão de finanças** será composta por cinco membros efetivos, sendo o seu presidente escolhido internamente e responsável pelos bens patrimoniais do Grêmio, tendo as seguintes incumbências:
+
 I - examinar a situação dos bens do Grêmio e apresentá-la a Assembléia;
+
 II - controlar a utilização dos recursos do Grêmio de acordo com o orçamento aprovado pela Assembléia;
+
 III - fazer a movimentação financeira do Grêmio.
 
 Parágrafo único. Excepcionalmente, em caso do **presidente da comissão de finanças ser menor de idade**, a abertura e movimentação da conta bancária do Grêmio ficarão sob a responsabilidade de outro membro da Comissão de Finanças, de outro membro do grêmio ou de um pai de aluno ou de um professor da escola, em quaisquer dos casos aprovados pela Assembléia.
@@ -243,4 +300,3 @@ Parágrafo único. Todos os representantes tem iguais direitos no Conselho, que 
 Fonte: [ http://www.soudapaz.org/upload/pdf/guia_gremioemforma.pdf ](http://www.soudapaz.org/upload/pdf/guia_gremioemforma.pdf) (MUITO modificado)
 
 Continuam modificados: os sete primeiros e os dois últimos artigos
-
