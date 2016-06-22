@@ -15,12 +15,19 @@ Parágrafo Único. No cumprimento de suas finalidades, o Grêmio **promoverá a�
 _*Redação alternativa (estatuto atual):*_
 
 **Art. 2º** São atribuições do Grêmio Estudantil:
+
  I - Representar condignamente o corpo discente;
+ 
  II - Defender os interesses (deveres, direitos e necessidades) individuais e coletivos dos alunos Secundaristas da Instituição;
+ 
  III - Incentivar a cultura literária, artística, científica, política, desportiva e social de seus membros e a melhoria da qualidade de ensino;
+ 
  IV - Promover a cooperação entre administradores, funcionários, professores e alunos no trabalho escolar, a fim de fiscalizar a educação e obter aprimoramentos;
+ 
  V - Realizar intercâmbio e colaboração de caráter político, cultural, educacional, cívico, científico, desportivo e social com outras instituições de mesmo caráter e com movimentos estudantis;
+ 
  VI - Lutar pela democracia permanente na escola, assim como pugnar pela educação de ensino às reais necessidades da classe estudantil, bem como pelo ensino público, gratuito e de qualidade através do direito de participação nos fóruns internos de deliberação da escola.
+ 
  VII - Reconhecer as entidades estudantis;
 
 _*Redação alternativa:*_
