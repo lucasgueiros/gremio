@@ -9,6 +9,7 @@ nós, Estudantes do IFPE - Campus Garanhuns,abaixo-assinados, convocamos Assembl
 I - o Art. 17. alínea b, que diz 
 
 > Art. 17. A Assembléia Geral se reunirá extraordinariamente quando:
+
 > b) é garantido a 1/5 dos associados o direito de convocação da Assembléia Geral.
 
 II - a lei 10.406, 2002, Art. 60. (Código Civil), que diz:
