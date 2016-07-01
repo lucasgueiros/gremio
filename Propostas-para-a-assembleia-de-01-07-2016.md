@@ -19,7 +19,13 @@ Para o edital:
 3. Apuração aberta
 4. 11 cargos
 5. 1 semana de campanha
-6. 
+6. Calendário:
+    1. A partir da segunda semana, contar 10 dias letivos para inscrições.
+    2. A partir do fim das incrições, contar 5 dias letivos para campanha
+    3. A partir do final das campanhas, contar 3 dias para a votação (seria numa quarta-feira)
+    4. A partir do final da votação, iniciar imediatamente a apuração.
+    5. A posse seria no primeiro dia letivo da semana posterior
+    6. No total, um mẽs de processo.
 
 
 Art. 9 São direitos dos Associados:
