@@ -1,4 +1,4 @@
-# Edital de Eleição  para o Grêmio Estudantil IFPE - Campus Garanhuns 2014
+# Edital de Eleição  para o Grêmio Estudantil IFPE - Campus Garanhuns 2016
 
 A Comissão Eleitoral no uso de suas atribuições TORNA PÚBLICO O PRESENTE EDITAL DE CONVOCAÇÃO PARA A INSCRIÇÃO DAS CHAPAS QUE CONCORRERÃO ÀS ELEIÇÕES DO GRÊMIO ESTUDANTIL.
 
