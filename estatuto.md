@@ -299,23 +299,31 @@ d) Apresentar, juntamente com o Presidente, a prestação de contas ao Conselho 
 Art. 40 Compete ao 1o Tesoureiro:
 Auxiliar o Tesoureiro Geral em todas as suas funções, e assumir o cargo em caso de vacância.
 
-Art. 41 Compete ao Diretor Social e de Imprensa:
+Art. 40 Compete ao Diretor Social:
 a) Coordenar o serviço de Relações Públicas do Grêmio;
+
 b) Organizar os colaboradores de sua Diretoria;
+
 c) Organizar festas promovidas pelo Grêmio Estudantil;
+
 d) Zelar pelo bom relacionamento do Grêmio com os gremistas, com a Escola e com a comunidade;
 
-Art. 42 Compete ao Diretor de Imprensa:
-a) Responder pela comunicação da Diretoria com os sócios e do Grêmio Estudantil com a comunidade;
-b) Manter os membros do Grêmio informados sobre os fatos de interesse dos estudantes;
-c) Editar o órgão oficial de imprensa do Grêmio;
-d) Escolher os colaboradores para sua Diretoria.
 
-Art. 43 Compete ao Vice-Diretor Social e de Imprensa:
+Art. 42 Compete ao Diretor de Imprensa:
+
+a) Responder pela Comunicação da Diretorio com os sócios e do Grêmio com a Ccomunidade;
+
+b) manter os membros do Grêmio informados sobre os fatos de interesse dos estudantes;
+
+c) editar o órgão oficial de imprensa do Grêmio;
+
+d) Escolher colaboradores para sua Diretoria;
+
+Art. 43 Compete ao Vice-Diretor de Imprensa:
 a) Auxiliar o Diretor Social e de Imprensa no exercício de suas funções;
 b) Substituir o Diretor Social e de Imprensa nos casos de ausência eventual ou impedimento temporário e nos casos de vacância do cargo.
 
-Art. 43 Compete ao Diretor Cultural e de Esportes:
+Art. 43 Compete ao Diretor Cultural:
 a) Promover a realização de conferências, exposições, concursos, recitais, festivais de música e outras atividades de natureza cultural;
 b) Manter relações com entidades culturais;
 c) A organização de grupos musicais, teatrais, etc.;
