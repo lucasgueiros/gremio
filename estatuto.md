@@ -531,16 +531,16 @@ Art. 50 Reunir-se-á Conselho Fiscal, ordinariamente, mensalmente e, extraordina
 
 Art. 51 O sistema eleitoral obedecerá ao regulamento eleitoral, respeitando as normas estatutárias.
 
-Art. 52 A Comissão Eleitoral deve ser escolhida em Assembleia Geral pelo menos um mês antes do final da gestão. A Comissão deve ser composta por alunos ou funcionários de todos os turnos em funcionamento no IFPI, Campus Corrente. Os alunos da Comissão não poderão concorrer às eleições.
+Art. 52 A Comissão Eleitoral deve ser escolhida em Assembleia Geral pelo menos um mês antes do final da gestão. A Comissão deve ser composta por alunos ou funcionários de todos os turnos em funcionamento no IFPE - Campus Garanhuns. Os alunos da Comissão não poderão concorrer às eleições.
 
-Art. 54 As eleições serão convocadas para o décimo primeiro mês do ano letivo pela Comissão
+Art. 53 As eleições serão convocadas para o décimo primeiro mês do ano letivo pela Comissão
 Eleitoral.
 
 Parágrafo único. Os casos omissos sobre a votação e apuração serão resolvidos pela Comissão Eleitoral.
 
-Art. 55 É aberta a participação como candidato à Presidência do Grêmio Estudantil qualquer estudante regularmente matriculado na Instituição, de Ensino Técnico, Integrado e/ou Subsequente, que esteja frequentado as aulas e de conformidade com a legislação atual.
+Art. 54 É aberta a participação como candidato à Presidência do Grêmio Estudantil qualquer estudante regularmente matriculado na Instituição, de Ensino Técnico, Integrado e/ou Subsequente, que esteja frequentado as aulas e de conformidade com a legislação atual.
 
-Art. 56 As chapas serão registradas perante a Comissão Eleitoral, a requerimento dos candidatos, dentro dos dez primeiros dias úteis à publicação do edital de convocação das eleições.
+Art. 55 As chapas serão registradas perante a Comissão Eleitoral, a requerimento dos candidatos, dentro dos dez primeiros dias úteis à publicação do edital de convocação das eleições.
 
 Parágrafo único. Constarão no edital:
 
@@ -554,17 +554,17 @@ IV - Data, horário e local de debates entre as chapas;
 
 V - Data da eleição.
 
-Art. 57 É obrigatório no ato da inscrição da chapa concorrente a Diretoria do Grêmio Estudantil, a apresentação de documento original, assinado pelo pai ou responsável dos candidatos aos cargos de Presidente e Tesoureiro, dando ciência da participação dos mesmos na eleição do Grêmio Estudantil e das responsabilidades jurídicas que assumirão caso sejam eleitos diretores do Grêmio Estudantil. Este documento deve ter firma reconhecida em cartório e não é obrigatório caso o Diretor Administrativo e/ou o Tesoureiro sejam maior de idade.
+Art. 56 É obrigatório no ato da inscrição da chapa concorrente a Diretoria do Grêmio Estudantil, a apresentação de documento original, assinado pelo pai ou responsável dos candidatos aos cargos de Presidente e Tesoureiro, dando ciência da participação dos mesmos na eleição do Grêmio Estudantil e das responsabilidades jurídicas que assumirão caso sejam eleitos diretores do Grêmio Estudantil. Este documento deve ter firma reconhecida em cartório e não é obrigatório caso o Diretor Administrativo e/ou o Tesoureiro sejam maior de idade.
 
-Art. 58 As chapas concorrentes poderão contar, em seus quadros, com membros da Diretoria Colegiada antiga.
+Art. 57 As chapas concorrentes poderão contar, em seus quadros, com membros da Diretoria Colegiada antiga.
 
-Art. 59 As despesas com os encargos eleitorais serão autorizadas pela Diretoria Administrativa, mediante prévio orçamento apresentado pela Comissão Eleitoral por intermédio de seu presidente.
+Art. 58 As despesas com os encargos eleitorais serão autorizadas pela Diretoria Administrativa, mediante prévio orçamento apresentado pela Comissão Eleitoral por intermédio de seu presidente.
 
-Art. 60 As eleições serão realizadas em dia normal de aula.
+Art. 59º As eleições serão realizadas em dia normal de aula.
 
-Art. 61 Com antecedência de três dias à realização do pleito, a Comissão Eleitoral por intermédio de seu presidente, nomeará os membros das mesas eleitorais que funcionarão em cada seção.
+Art. 60º Com antecedência de três dias à realização do pleito, a Comissão Eleitoral por intermédio de seu presidente, nomeará os membros das mesas eleitorais que funcionarão em cada seção.
 
-Art. 62 A mesa eleitoral será composta por:
+Art. 61º A mesa eleitoral será composta por:
 
 I - Um membro de cada chapa concorrente ao pleito eleitoral;
 
@@ -578,53 +578,55 @@ IV - O Presidente da Comissão Eleitoral.
 
 § 2° A apuração será imediata ao término da votação.
 
-Art. 63 Será proclamada eleita a chapa que obtiver o maior número de votos, devendo o relatório ou ato da apuração registrar as principais ocorrências e a relação nominal dos candidatos vitoriosos.
+Art. 62 Será proclamada eleita a chapa que obtiver o maior número de votos, devendo o relatório ou ato da apuração registrar as principais ocorrências e a relação nominal dos candidatos vitoriosos.
 
 ### SEÇÃO II
 ### Da Posse
 
-Art. 64 A posse da nova Diretoria Colegiada dar-se-á solenemente em Assembleia Geral, impreterivelmente cinco dias úteis após a apuração.
+Art. 63 A posse da nova Diretoria Colegiada dar-se-á solenemente em Assembleia Geral, impreterivelmente cinco dias úteis após a apuração.
 
 Parágrafo único. A Diretoria Colegiada transmitente é facultado dar posse à nova Diretoria do Grêmio Estudantil, até quatro dias úteis após as eleições, em solenidade em Assembleia Geral.
 
-Art. 65 Será declarada a vacância do cargo, o titular que não se apresentar para empossar-se dentro de trinta dias, contados da posse dos membros da Diretoria Colegiada, salvo justificação fundamentada, podendo ser prorrogado uma única vez por igual período.
+Art. 64 Será declarada a vacância do cargo, o titular que não se apresentar para empossar-se dentro de trinta dias, contados da posse dos membros da Diretoria Colegiada, salvo justificação fundamentada, podendo ser prorrogado uma única vez por igual período.
 
-Art. 66 A posse do eleito para completar o mandato, em virtude da perda deste pelo respectivo titular, dar-se-á logo após sua aprovação perante Assembleia Geral conforme preceitua o art. 57 do novo Código Civil.
+Art. 65 A posse do eleito para completar o mandato, em virtude da perda deste pelo respectivo titular, dar-se-á logo após sua aprovação perante Assembleia Geral conforme preceitua o art. 57 do novo Código Civil.
 
-Art. 67 O Presidente ao empossar-se fará, em nome dos demais eleitos o discurso de posse, perante a Assembleia Geral e o seguinte juramento:
-"Perante os alunos e a Congregação do Instituto Federal de Educação, Ciência e Tecnologia do Piauí Campus Corrente, juro manter, defender, cumprir e fazer cumprir o Estatuto do Grêmio Estudantil IFPE - Campus Garanhuns, buscando o
+Art. 66 O Presidente ao empossar-se fará, em nome dos demais eleitos o discurso de posse, perante a Assembleia Geral e o seguinte juramento:
+"Perante os alunos e a Congregação do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - Campus Garanhuns, juro manter, defender, cumprir e fazer cumprir o Estatuto do Grêmio Estudantil IFPE - Campus Garanhuns, buscando o
 fortalecimento da classe estudantil, respeitando seu passado de lutas e glórias, sustentando-lhe a união, a integridade e a independência".
 
 ### SEÇÃO III
 ### Dos Mandatos
 
-Art. 68 Todos os mandatos da Diretoria Colegiada terá duração de um ano letivo e expirará com a posse de seus novos titulares.
+Art. 67 Todos os mandatos da Diretoria Colegiada terá duração de um ano letivo e expirará com a posse de seus novos titulares.
 
 Parágrafo único. O Presidente empossado ficará impossibilitado de renunciar ao seu cargo nos três primeiros meses de Gestão, salvo por força maior, que deverá ser discutida em Assembleia Geral convocada especialmente para este fim.
 
-Art. 69 Considera-se vago o cargo cujo titular, sem motivo justificado, deixa de comparecer a três reuniões ordinárias e consecutivas, ou a cinco ordinárias e alternadas.
+Art. 68 Considera-se vago o cargo cujo titular, sem motivo justificado, deixa de comparecer a três reuniões ordinárias e consecutivas, ou a cinco ordinárias e alternadas.
 
-Art. 70 É vedada a acumulação de cargos na Diretoria do Grêmio Estudantil.
+Art. 69 É vedada a acumulação de cargos na Diretoria do Grêmio Estudantil.
 
-Art. 71 Não se admite o exercício do mandato de membro da Diretoria Colegiada, concomitante, com as funções eletivas em outras entidades de representação estudantil.
+Art. 70 Não se admite o exercício do mandato de membro da Diretoria Colegiada, concomitante, com as funções eletivas em outras entidades de representação estudantil.
 
 Parágrafo único. O membro da Diretoria Colegiada do Grêmio que vier acumular cargo eletivo em outra entidade terá quinze dias para optar para um dentre os cargos.
 
 ## CAPÍTULO V
 ## Disposições Gerais e Transitórias
 
-Art. 72 O presente Estatuto poderá ser modificado somente em Assembleia Geral especialmente convocada de acordo com as normas do mesmo.
+Art. 71 O presente Estatuto poderá ser modificado somente em Assembleia Geral especialmente convocada de acordo com as normas do mesmo.
 
-Art. 73 As representações dos sócios do Grêmio Estudantil só serão consideradas pela Diretoria do Grêmio Estudantil ou pelo Conselho de Representantes de Turma, quando formuladas por escrito e devidamente fundamentadas e assinadas.
+Art. 72 As representações dos sócios do Grêmio Estudantil só serão consideradas pela Diretoria do Grêmio Estudantil ou pelo Conselho de Representantes de Turma, quando formuladas por escrito e devidamente fundamentadas e assinadas.
 
-Art. 74 Fica estabelecida a gratuidade absoluta no exercício de qualquer função nos órgãos do Grêmio.
+Art. 73 Fica estabelecida a gratuidade absoluta no exercício de qualquer função nos órgãos do Grêmio.
 
-Art. 75 Nenhum sócio poderá intitular-se representante do Grêmio sem a autorização, por escrito, da Diretoria Colegiada, assinada pelo Presidente.Art. 76 A Diretoria do Grêmio Estudantil IFPE - Campus Garanhuns em vigor, desde antes da aprovação deste Estatuto, tem o prazo de dois meses para regularizar a sua atuação de acordo com as novas disposições estatutárias.
+Art. 74 Nenhum sócio poderá intitular-se representante do Grêmio sem a autorização, por escrito, da Diretoria Colegiada, assinada pelo Presidente.
 
-Art. 77 As normas relativas à propaganda eleitoral, realização de debates e procedimento de inscrição das chapas ficam a cargo da Comissão Eleitoral, que deverá divulgar a regulamentação com no mínimo um mês de antecedência da realização do pleito.
+Art. 75 A Diretoria do Grêmio Estudantil IFPE - Campus Garanhuns em vigor, desde antes da aprovação deste Estatuto, tem o prazo de dois meses para regularizar a sua atuação de acordo com as novas disposições estatutárias.
 
-Art. 78 Este Estatuto deverá ser divulgado, logo após a sua aprovação, em murais e/ou outros meios de divulgação do Instituto Federa de Educação, Ciência e Tecnologia do Piauí Campus Corrente, por período de trinta dias.
+Art. 76 As normas relativas à propaganda eleitoral, realização de debates e procedimento de inscrição das chapas ficam a cargo da Comissão Eleitoral, que deverá divulgar a regulamentação com no mínimo um mês de antecedência da realização do pleito.
 
-Art. 79 O Grêmio Estudantil IFPE - Campus Garanhuns terá tempo de duração ilimitada e, somente ocorrerá sua extinção por deliberação de 2/3 (dois terços) dos presentes em Assembleia designada especificamente para esse fim, revertendo-se, no caso de extinção da entidade, seus bens a entidade estudantil congênere.
+Art. 77 Este Estatuto deverá ser divulgado, logo após a sua aprovação, em murais e/ou outros meios de divulgação do Instituto Federa de Educação, Ciência e Tecnologia do Piauí Campus Corrente, por período de trinta dias.
 
-Art. 80 Revogadas todas as disposições em contrário, este Estatuto entrará em vigor um dia útil após sua aprovação pela Assembleia Geral convocada para este fim.
+Art. 78 O Grêmio Estudantil IFPE - Campus Garanhuns terá tempo de duração ilimitada e, somente ocorrerá sua extinção por deliberação de 2/3 (dois terços) dos presentes em Assembleia designada especificamente para esse fim, revertendo-se, no caso de extinção da entidade, seus bens a entidade estudantil congênere.
+
+Art. 79 Revogadas todas as disposições em contrário, este Estatuto entrará em vigor um dia útil após sua aprovação pela Assembleia Geral convocada para este fim.
