@@ -495,9 +495,7 @@ a) Auxiliar o Diretor de Saúde e Meio Ambiente no exercício de suas funções;
 
 b) Substituir o Diretor de Saúde e Meio Ambiente nos casos de ausência eventual ou impedimento temporário e nos casos de vacância do cargo.
 
-## CAPÍTULO IV
-
-### SESSÃO IV
+### SEÇÃO IV
 
 ### Do Conselho Fiscal
 
