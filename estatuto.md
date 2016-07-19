@@ -269,7 +269,7 @@ Art. 25 A Diretoria do Grêmio Estudantil é a primeira instância deliberativa 
 
 Art. 26 A gestão da Diretoria Colegiada terá duração de um ano.
 
-Art. 27 Cabe à Diretoria do Grêmio Estudantil IFPE - Campus Garanhuns:
+Art. 27 Cabe à Diretoria do Grêmio Estudantil:
 
 I - Elaborar o plano anual de trabalho, informando-o ao Conselho de Representantes de Turma e votado pelos mesmos;
 
@@ -311,21 +311,19 @@ V - Tesoureiro Geral;
 
 VI - 1° Tesoureiro;
 
-VII - Diretor Social e de Imprensa;
+VII - Diretor Social;
 
-VIII - Vice-Diretor Social e de Imprensa;
+VIII - Diretor de Imprensa;
 
-IX - Diretor de Cultura e Esportes;
+IX - Diretor Esportes;
 
-X - Vice-Diretor de Cultura e Esportes;
+X - Diretor de Cultura;
 
 XI - Diretor de Saúde e Meio Ambiente;
 
-XII - Vice-Diretor de Saúde e Meio Ambiente.
-
 Parágrafo único. É vedado o acúmulo de cargos.
 
-Art. 29 Cada Diretoria será formada por um Diretor e Vice-Diretor, os quais deverão compor uma equipe de trabalho, escolhidos dentre os membros do corpo discente do IFPE Campus Garanhuns, estes últimos a título de colaboração.
+Art. 29 Cada Diretoria será formada por um Diretor, os quais deverão compor uma equipe de trabalho, escolhidos dentre os membros do corpo discente do IFPE - Campus Garanhuns, estes últimos a título de colaboração.
 
 §1° O Diretor de cada diretoria é seu responsável direto;
 
@@ -335,7 +333,7 @@ II - Os membros da equipe de trabalho de cada diretoria deverão se reunir ao me
 
 §2° As decisões tomadas pela Diretoria do Grêmio Estudantil serão discutidas em reunião da mesma, entre os diretores e aprovadas pela maioria simples de voto.
 
-§3° No caso da vacância do cargo de Diretor, o mesmo será ocupado pelo seu Vice-Diretor.
+§3° No caso da vacância do cargo de Diretor, o mesmo será ocupado por um outro integrante do respectivo Grêmio, este escolhido em reunião da Diretoria do Grêmio Estudantil.
 
 Art. 30 Cabe aos membros da Diretoria do Grêmio Estudantil:
 
