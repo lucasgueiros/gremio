@@ -267,7 +267,9 @@ VIII - Desempenhar as demais funções inerentes ao encargo.
 
 Art. 25 A Diretoria do Grêmio Estudantil é a primeira instância deliberativa sendo composta exclusivamente por associados do Grêmio Estudantil, sendo responsável por representar oficialmente a Entidade e pelo encaminhamento e execução das atividades da mesma, bem como a coordenação e planejamento das mesmas.
 
-Art. 26 A gestão da Diretoria Colegiada terá duração de um ano.Art. 27 Cabe à Diretoria do Grêmio Estudantil IFPE - Campus Garanhuns:
+Art. 26 A gestão da Diretoria Colegiada terá duração de um ano.
+
+Art. 27 Cabe à Diretoria do Grêmio Estudantil IFPE - Campus Garanhuns:
 
 I - Elaborar o plano anual de trabalho, informando-o ao Conselho de Representantes de Turma e votado pelos mesmos;
 
