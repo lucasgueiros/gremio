@@ -2,7 +2,7 @@
 
 *Faltam pequenas correções, anotações estaram em itálico*
 
-## CAPÍTULO I
+## CAPÍTULO I *capítulo ok*
 ## Da Denominação, Sede, Duração e Fins
 
 Art. 1 O Grêmio Estudantil IFPE - Campus Garanhuns, é o órgão de representação do corpo discente do Ensino Técnico Integrado e Técnico Concomitante/Subsequente, do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco, Campus Garanhuns, com sede e foro na Rua Padre Agobar Valença S/nº Severiano Moraes Filho, Cidade de Garanhuns, PE e reger-se-á por Estatuto, nos termos de legislação vigente e terá duração indeterminada.
@@ -25,7 +25,7 @@ VI - Lutar pela democracia permanente na escola, assim como pugnar pela educaç�
 
 VII - Reconhecer as entidades estudantis;
 
-## CAPÍTULO II
+## CAPÍTULO II *capítulo ok*
 ## Dos Elementos Da Entidade:
 
 Art. 3 São elementos do Grêmio Estudantil IFPE - Campus Garanhuns:
@@ -34,8 +34,7 @@ I - Seu patrimônio;
 
 II - Seus associados.
 
-### SEÇÃO I
-
+### SEÇÃO I *seção ok*
 ### Do Patrimônio
 
 Art. 4 O patrimônio do Grêmio Estudantil é constituído pelos bens que ele possui e por outros que venha a adquirir, cujos rendimentos serão aplicados na satisfação de seus encargos.
@@ -54,7 +53,7 @@ Art. 6 A Diretoria do Grêmio será responsável pelos bens da Entidade e respon
 
 Art. 7 O Grêmio Estudantil não se responsabilizará por obrigações contraídas por estudantes, integrantes ou não da Diretoria Colegiada, sem que este tenha sido previamente autorizado, por escrito e assinado pelo Diretor Administrativo ou Tesoureiro.
 
-### SEÇÃO II
+### SEÇÃO II *seção ok*
 ### Dos Associados
 
 Art. 8º São Associados do Grêmio Estudantil, todos os alunos regularmente matriculados nos cursos do Ensino Técnico Integrado e Subsequente do IFPE Campus Garanhuns.
@@ -115,8 +114,7 @@ III - Na eventualidade do infrator ser membro da Diretoria do Grêmio Estudantil
 
 IV - O Conselho Geral de Representantes de Turma está apto a aplicar as penalidades mencionadas nesse artigo, e autoriza a cancelar os direitos de associados do Grêmio Estudantil desse infrator.
 
-## CAPÍTULO III
-
+## CAPÍTULO III *capítulo ok*
 ## Da Organização Do Grêmio Estudantil
 
 Art. 13 São instâncias deliberativas do Grêmio Estudantil:
@@ -129,8 +127,7 @@ III - Diretoria Colegiada do Grêmio;
 
 IV - Conselho Fiscal.
 
-### SEÇÃO I
-
+### SEÇÃO I *seção ok*
 ### Assembleia Geral
 
 Art. 14 A Assembleia Geral dos Estudantes é a instância superior e soberana de deliberação da entidade nos termos deste estatuto e compõem-se de todos os sócios do Grêmio.
@@ -183,8 +180,7 @@ a) Em primeira convocação a Assembleia Geral não pode deliberar sem a maioria
 
 b) Em segunda convocação a Assembleia Geral não poderá deliberar com menos de 1/3 dos associados conforme preceitua o art. 59 do novo Código Civil.
 
-### SEÇÃO II
-
+### SEÇÃO II *seção ok*
 ### Conselho De Representantes De Turma
 
 Art. 20 O Conselho de Representantes de Turma é a instância deliberativa intermediária do Grêmio Estudantil do IFPE - Campus Garanhuns. Composto pelos representantes eleitos para este fim, de todas as turmas do Ensino Técnico Integrado ao Ensino Médio e Subsequente, tendo como relevante objetivo garantir a participação do corpo discente na construção do Colégio, trabalhando os problemas, questionamentos e soluções trazidas de cada turma pelos seus representantes.
@@ -233,7 +229,7 @@ VII - Demais atribuições que lhe foram conferidas pelo presente Estatuto.
 
 Art. 24 São funções dos Representantes de Turma:
 
-I - Comparecer às reuniões ordinárias, bem como às extraordinárias do conselho de representantes de turma.
+I - Comparecer as reuniões ordinárias, bem como as extraordinárias do conselho de representantes de turma.
 
 II - Representar a turma, nos seus encargos específicos, junto às instâncias do IFPE - Campus Garanhuns, e do Grêmio Estudantil, em especial o Conselho de Representantes de Turma, procurando em qualquer instância os justos interesses da turma;
 
@@ -261,8 +257,7 @@ VIII - Desempenhar as demais funções inerentes ao encargo.
 
 § 6° Caso um ou ambos os representantes de uma turma percam, por qualquer motivo, sua função, deverá haver, para todos efeitos, nova eleição para novo representante no prazo de oito dias úteis, orientada pela Diretoria Colegiada do Grêmio Estudantil.
 
-### SEÇÃO III
-
+### SEÇÃO III *seção ok*
 ### Da Diretoria Colegiada
 
 Art. 25 A Diretoria do Grêmio Estudantil é a primeira instância deliberativa sendo composta exclusivamente por associados do Grêmio Estudantil, sendo responsável por representar oficialmente a Entidade e pelo encaminhamento e execução das atividades da mesma, bem como a coordenação e planejamento das mesmas.
@@ -484,8 +479,7 @@ c) Incentivar hábitos de higiene e conservação do ambiente escolar;
 d) Escolher os colaboradores de sua Diretoria.
 
 ### SEÇÃO IV
-
-### Do Conselho Fiscal
+### Do Conselho Fiscal *seção ok*
 
 Art. 46 O Conselho Fiscal é instância deliberativa intermediária do Grêmio e compõe-se de três membros, do Conselho de Representantes de Turma escolhidos em reunião do CRT.
 
@@ -527,14 +521,12 @@ X - Acompanhar o processo eleitoral;
 
 XI - Demais atribuições que lhe foram conferidas pelo presente Estatuto.
 
-Art. 50 Reunir-se-á o Conselho Fiscal, ordinariamente, mensalmente e, extraordinariamente, quando requisitado pela Diretoria Colegiada do Grêmio em procedimento específico, deliberando sempre por maioria simples dos votos.
+Art. 50 Reunir-se-á Conselho Fiscal, ordinariamente, mensalmente e, extraordinariamente, quando requisitado pela Diretoria Colegiada do Grêmio em procedimento específico, deliberando sempre por maioria simples dos votos.
 
 ## CAPÍTULO IV
-
 ## Do Sistema Eleitoral, Da Posse e Do Mandato.
 
 ### SEÇÃO I
-
 ### Das Eleições
 
 Art. 51 O sistema eleitoral obedecerá ao regulamento eleitoral, respeitando as normas estatutárias.
@@ -589,7 +581,6 @@ IV - O Presidente da Comissão Eleitoral.
 Art. 63 Será proclamada eleita a chapa que obtiver o maior número de votos, devendo o relatório ou ato da apuração registrar as principais ocorrências e a relação nominal dos candidatos vitoriosos.
 
 ### SEÇÃO II
-
 ### Da Posse
 
 Art. 64 A posse da nova Diretoria Colegiada dar-se-á solenemente em Assembleia Geral, impreterivelmente cinco dias úteis após a apuração.
@@ -620,7 +611,6 @@ Art. 71 Não se admite o exercício do mandato de membro da Diretoria Colegiada,
 Parágrafo único. O membro da Diretoria Colegiada do Grêmio que vier acumular cargo eletivo em outra entidade terá quinze dias para optar para um dentre os cargos.
 
 ## CAPÍTULO V
-
 ## Disposições Gerais e Transitórias
 
 Art. 72 O presente Estatuto poderá ser modificado somente em Assembleia Geral especialmente convocada de acordo com as normas do mesmo.
