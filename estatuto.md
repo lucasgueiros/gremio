@@ -361,7 +361,7 @@ Art. 34 É vedado o acúmulo de cargos na Diretoria do Grêmio Estudantil.
 
 Art. 35 Compete ao Presidente:
 
-I - Representar a associação gremista no próprio IFPI Campus Corrente, ou fora dele ativa, passiva, judicial e extrajudicialmente. Bem como assinar cheque, procurações, cartas e documentos em conformidade com a Legislação vigente e este Estatuto;
+I - Representar a associação gremista no próprio IFPE - Campus Garanhuns, ou fora dele ativa, passiva, judicial e extrajudicialmente. Bem como assinar cheque, procurações, cartas e documentos em conformidade com a Legislação vigente e este Estatuto;
 
 II - Desempenhar a função de Administrador da Entidade;
 
@@ -381,7 +381,7 @@ IX - Assinar, juntamente com o Tesoureiro, as autorizações de despesas, cheque
 
 X - Assinar, juntamente com o Tesoureiro, balancete das finanças do Grêmio Estudantil, a ser apreciado pelo Conselho Fiscal;
 
-XI - Assinar, juntamente com o Secretário-Geral a ata de reunião da Diretoria Colegiada e da Assembleia Geral, contendo os temas debatidos e as decisões tomadas, devendo a mesma contar com a assinatura de 2/3 dos presentes, membros ou não da Diretoria Colegiada;
+XI - Assinar, juntamente com o Diretor de Comunicação a ata de reunião da Diretoria Colegiada e da Assembleia Geral, contendo os temas debatidos e as decisões tomadas, devendo a mesma contar com a assinatura de 2/3 dos presentes, membros ou não da Diretoria Colegiada;
 
 XII - Responsabilizar-se pelos bens do Grêmio Estudantil;
 
@@ -415,7 +415,8 @@ c) Redigir e assinar com o Presidente a correspondência oficial do Grêmio;
 d) Manter em dia os arquivos da entidade.
 
 Art. 38 Compete ao 1o Secretário:
-Auxiliar o Secretário-Geral em todas as suas funções e assumir o cargo em caso de vacância do
+
+a) Auxiliar o Secretário-Geral em todas as suas funções e assumir o cargo em caso de vacância do
 mesmo.
 
 Art. 39 Compete ao Tesoureiro Geral:
@@ -430,7 +431,8 @@ movimentação financeira;
 d) Apresentar, juntamente com o Presidente, a prestação de contas ao Conselho Fiscal.
 
 Art. 40 Compete ao 1o Tesoureiro:
-Auxiliar o Tesoureiro Geral em todas as suas funções, e assumir o cargo em caso de vacância.
+
+a) Auxiliar o Tesoureiro Geral em todas as suas funções, e assumir o cargo em caso de vacância.
 
 Art. 40 Compete ao Diretor Social:
 
@@ -438,26 +440,20 @@ a) Coordenar o serviço de Relações Públicas do Grêmio;
 
 b) Organizar os colaboradores de sua Diretoria;
 
-c) Organizar festas promovidas pelo Grêmio Estudantil;
+c) Organizar festas promovidas pelo Grêmio;
 
 d) Zelar pelo bom relacionamento do Grêmio com os gremistas, com a Escola e com a comunidade;
 
 
 Art. 42 Compete ao Diretor de Imprensa:
 
-a) Responder pela Comunicação da Diretorio com os sócios e do Grêmio com a Ccomunidade;
+a) Responder pela Comunicação da Diretoria com os sócios e do Grêmio com a Ccomunidade;
 
 b) manter os membros do Grêmio informados sobre os fatos de interesse dos estudantes;
 
 c) editar o órgão oficial de imprensa do Grêmio;
 
 d) Escolher colaboradores para sua Diretoria;
-
-Art. 43 Compete ao Vice-Diretor de Imprensa:
-
-a) Auxiliar o Diretor Social e de Imprensa no exercício de suas funções;
-
-b) Substituir o Diretor Social e de Imprensa nos casos de ausência eventual ou impedimento temporário e nos casos de vacância do cargo.
 
 Art. 43 Compete ao Diretor Cultural:
 
@@ -467,17 +463,15 @@ b) Manter relações com entidades culturais;
 
 c) A organização de grupos musicais, teatrais, etc.;
 
-d) Coordenar e orientar as atividades esportivas do corpo discente;
+D) escolher os colaboradores de sua diretoria
 
-e) Incentivar a prática de esportes organizando campeonatos internos;
+Art. 44 Compete ao Diretor de Esportes;
 
-f) Escolher os colaboradores de sua Diretoria.
+a) Coordenar e orientar as atividades esportivas do corpo discente;
 
-Art. 44 Compete ao Vice-Diretor Cultural e de Esportes:
+b) Incentivar a prática de esportes organizando campeonatos internos;
 
-a) Auxiliar o Diretor Cultural e de Esportes no exercício de suas funções;
-
-b) Substituir o Diretor Cultural e de Esportes nos casos de ausência eventual ou impedimento temporário e nos casos de vacância do cargo.
+c) Escolher os colaboradores de sua Diretoria.
 
 Art. 45 Compete ao Diretor de Saúde e Meio Ambiente:
 
@@ -488,12 +482,6 @@ b) Manter relações com entidades de saúde e meio ambiente;
 c) Incentivar hábitos de higiene e conservação do ambiente escolar;
 
 d) Escolher os colaboradores de sua Diretoria.
-
-Art. 46 Compete ao Vice-Diretor de Saúde e Meio Ambiente:
-
-a) Auxiliar o Diretor de Saúde e Meio Ambiente no exercício de suas funções;
-
-b) Substituir o Diretor de Saúde e Meio Ambiente nos casos de ausência eventual ou impedimento temporário e nos casos de vacância do cargo.
 
 ### SEÇÃO IV
 
